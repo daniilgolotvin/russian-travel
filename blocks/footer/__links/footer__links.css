@@ -1,5 +1,10 @@
 .footer__links {
   display: flex;
   gap: 18px;
-  align-items: center;
+
+
+@media (max-width: px) {
+  .footer__links {
+    flex-direction: column;
+  }
 }
