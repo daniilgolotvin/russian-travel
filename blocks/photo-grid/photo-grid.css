@@ -1,0 +1,12 @@
+.photo-grid {
+  margin-left: 3.75%;
+  margin-right: 3.75%;
+  margin-top: 92px;
+  max-width: 1184px;
+}
+
+@media (max-width: 1025px) {
+  .photo-grid {
+    margin: 92px 4.69% 0;
+  }
+}

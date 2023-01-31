@@ -1,0 +1,12 @@
+.places {
+  max-width: 984px;
+  margin: auto;
+  margin-top: 92px;
+  padding: 0;
+}
+
+@media (max-width: 1025px) {
+  .places {
+    margin: 92px 4.69% 92px;
+  }
+}
