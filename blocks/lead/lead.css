@@ -9,3 +9,9 @@
     margin: 48px 4.69% 0;
   }
 }
+
+@media (max-width: 769px) {
+  .lead {
+    margin: 48px 0;
+  }
+}

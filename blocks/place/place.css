@@ -6,3 +6,23 @@
 
   gap: 48px 40px;
 }
+
+@media (max-width: 1060px) {
+  .place {
+    gap: 48px 32px;
+  }
+}
+
+@media (max-width: 978px) {
+  .place {
+    gap: 48px 28px;
+    margin-bottom: 73px;
+  }
+}
+
+@media (max-width: 500px) {
+  .place {
+    gap: 32px;
+    margin-bottom: 50px;
+  }
+}

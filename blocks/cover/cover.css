@@ -26,3 +26,21 @@
 .cover:hover:before {
   opacity: 0.7;
 }
+
+@media (max-width: 1025px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 978px) {
+  .cover {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 500px) {
+  .cover {
+    min-height: 200px;
+  }
+}

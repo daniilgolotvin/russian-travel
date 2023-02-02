@@ -10,3 +10,15 @@
     margin: 92px 4.69% 92px;
   }
 }
+
+@media (max-width: 978px) {
+  .places {
+    margin: 88px 24px 90px;
+  }
+}
+
+@media (max-width: 500px) {
+  .places {
+    margin: 64px 0 66px;
+  }
+}

@@ -11,3 +11,16 @@
     margin: 0 4.69% 0;
   }
 }
+
+@media (max-width: 768px) {
+  .header {
+    margin: 0 24px 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .header {
+    margin: 0 16px 0;
+    padding-top: 16px;
+  }
+}

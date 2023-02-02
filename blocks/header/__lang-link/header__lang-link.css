@@ -10,10 +10,17 @@
 }
 
 .header__lang-link:hover {
-  text-decoration: underline;
-  opacity: 0.7;
+  opacity: 0.79999999999999999999999999999999999999999999999999999;
 }
 
 .header__lang-link:last-child {
   margin-right: 0px;
+}
+
+@media (max-width: 500px) {
+  .header__lang-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

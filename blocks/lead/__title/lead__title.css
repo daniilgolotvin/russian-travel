@@ -7,6 +7,11 @@
   margin: auto;
 }
 
+@media (max-width: 1025px) {
+  .lead__title {
+  }
+}
+
 @media (max-width: 767px) {
   .lead__title {
     font-weight: 900;
