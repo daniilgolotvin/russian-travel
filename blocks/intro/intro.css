@@ -1,6 +1,13 @@
 .intro {
   margin-top: 92px;
+  margin-left: 148px;
   max-width: 690px;
+}
+
+@media (max-width: 1025px) {
+  .intro {
+    margin-left: 48px;
+  }
 }
 
 @media (max-width: 769px) {

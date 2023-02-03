@@ -1,4 +1,9 @@
 .cover__link {
   text-decoration: none;
   color: #fff;
+  position: relative;
+  min-height: 740px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }

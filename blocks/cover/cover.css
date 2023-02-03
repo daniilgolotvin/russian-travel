@@ -24,7 +24,7 @@
 }
 
 .cover:hover:before {
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 @media (max-width: 1025px) {
